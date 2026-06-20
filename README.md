@@ -21,15 +21,15 @@ projects to stretch into storage and networking; CUDA / Triton
 kernel work to translate hardware-first thinking into AI infra.
 
 ## Stack
-**Core:** C, C++, CUDA, Python
+- **Core:** C, C++, CUDA, Python
 
-**GPU / Kernel:** CUDA kernel optimization, Triton, roofline analysis, warp / occupancy tuning
+- **GPU / Kernel:** CUDA kernel optimization, Triton, roofline analysis, warp / occupancy tuning
 
-**Embedded:** VxWorks, BSP development, DMA + ISR programming, FPGA driver interfacing, MMIO
+- **Embedded:** VxWorks, BSP development, DMA + ISR programming, FPGA driver interfacing, MMIO
 
-**Build / Test:** CMake, GoogleTest, Docker, ASan / UBSan
+- **Build / Test:** CMake, GoogleTest, Docker, ASan / UBSan
 
-**Tools:** Git, gRPC, Protocol Buffers, vcpkg
+- **Tools:** Git, gRPC, Protocol Buffers, vcpkg
 
 ## Pinned work
 
