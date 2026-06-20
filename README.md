@@ -1,13 +1,13 @@
 # Obaid Miah
 
-**Systems & Kernel Engineer**
+**Systems & Kernel Software Engineer**
 C++ · CUDA · Hardware-coupled software · Los Angeles
 
-Principal Software Engineer at Northrop Grumman. UCLA EE.
+Former Principal Software Engineer at Northrop Grumman. UCLA EE.
 I write software that understands the hardware beneath it.
 FPGA device drivers, DMA pipelines, ISRs, VxWorks BSP, real-time
 datapath control. Now applying that hardware-first instinct to
-GPU kernel engineering and AI infrastructure.
+GPU kernel engineering and AI infrastructure. Quit my job to learn new things. 
 
 ## What I do
 
@@ -22,9 +22,13 @@ kernel work to translate hardware-first thinking into AI infra.
 
 ## Stack
 **Core:** C, C++, CUDA, Python
+
 **GPU / Kernel:** CUDA kernel optimization, Triton, roofline analysis, warp / occupancy tuning
+
 **Embedded:** VxWorks, BSP development, DMA + ISR programming, FPGA driver interfacing, MMIO
+
 **Build / Test:** CMake, GoogleTest, Docker, ASan / UBSan
+
 **Tools:** Git, gRPC, Protocol Buffers, vcpkg
 
 ## Pinned work
