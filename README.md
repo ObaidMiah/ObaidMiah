@@ -33,24 +33,24 @@ kernel work to translate hardware-first thinking into AI infra.
 
 ## Pinned work
 
-- **[Key_Value_In_Memory](https://github.com/ObaidMiah/Key_Value_In_Memory)** —
+- **[key-value-in-memory](https://github.com/ObaidMiah/Key_Value_In_Memory)** —
   Durable, replicated key-value store written from scratch in C++.
   CRC-framed write-ahead log, fsync-per-write recovery, gRPC wire
   protocol, 3-node replicated cluster via docker-compose, crash-recovery
   test harness, CI building Debug + Release under sanitizers.
 
-- **[Custom-STL-and-Smart-Pointer-Library](https://github.com/ObaidMiah/Custom-STL-and-Smart-Pointer-Library)** —
+- **[custom-stl-and-smart-pointer-library](https://github.com/ObaidMiah/Custom-STL-and-Smart-Pointer-Library)** —
   Hand-written containers and smart pointers covered by GoogleTest.
   RAII, move semantics, allocator-aware design.
 
-- **[ObjectDetection](https://github.com/ObaidMiah/ObjectDetection)** —
+- **[object-detection](https://github.com/ObaidMiah/ObjectDetection)** —
   Hough Transform shape detection for real-time image analysis on
   embedded hardware.
 
-- **[SpeechRecognition](https://github.com/ObaidMiah/SpeechRecognition)** —
+- **[speech-recognition](https://github.com/ObaidMiah/SpeechRecognition)** —
   Neural-network vowel classifier running on a DSP.
 
-- **[MobileRobot](https://github.com/ObaidMiah/MobileRobot)** —
+- **[mobile-robot](https://github.com/ObaidMiah/MobileRobot)** —
   Voice-controlled robot. On-device speech recognition (FFT + MFCC +
   neural-network classifier) running on a TI DSP; recognized commands
   relayed via an nRF24L01 wireless link to an Arduino motor controller.
