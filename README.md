@@ -1,6 +1,6 @@
 # Obaid Miah
 
-**Principal C++ Software Engineer**
+**Principal Software Engineer**
 C++ · CUDA · Hardware-coupled software · Los Angeles
 
 Former Principal Software Engineer at Northrop Grumman. UCLA EE.
