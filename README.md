@@ -50,6 +50,12 @@ kernel work to translate hardware-first thinking into AI infra.
 - **[SpeechRecognition](https://github.com/ObaidMiah/SpeechRecognition)** —
   Neural-network vowel classifier running on a DSP.
 
+- **[MobileRobot](https://github.com/ObaidMiah/MobileRobot)** —
+  Voice-controlled robot. On-device speech recognition (FFT + MFCC +
+  neural-network classifier) running on a TI DSP; recognized commands
+  relayed via an nRF24L01 wireless link to an Arduino motor controller.
+  C + Arduino across three boards (LCDK / transmitter / receiver).
+
 ## Currently building
 
 - Tiled shared-memory CUDA matmul, benchmarked against cuBLAS on A100
