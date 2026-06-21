@@ -61,4 +61,4 @@ kernel work to translate hardware-first thinking into AI infra.
 - Site — [obaidmiah.com](https://obaidmiah.com)
 - LinkedIn — [obaid-miah](https://www.linkedin.com/in/obaid-miah/)
 - Email — obaidmiah@gmail.com
-- Twitter - [obaid_miah](https://x.com/Obaid_Miah)
+- Twitter — [obaid_miah](https://x.com/Obaid_Miah)
