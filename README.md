@@ -35,7 +35,7 @@ kernel work to translate hardware-first thinking into AI infra.
 - **[key-value-in-memory](https://github.com/ObaidMiah/Key_Value_In_Memory)** —
   Durable, replicated key-value store written from scratch in C++.
   CRC-framed write-ahead log, fsync-per-write recovery, gRPC wire
-  protocol, 3-node replicated cluster via docker-compose, crash-recovery
+  protocol, 2-node leader-follower replication, crash-recovery
   test harness, CI building Debug + Release under sanitizers.
 
 - **[custom-stl-and-smart-pointer-library](https://github.com/ObaidMiah/Custom-STL-and-Smart-Pointer-Library)** —
