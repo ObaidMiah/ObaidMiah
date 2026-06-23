@@ -44,8 +44,8 @@ kernel work to translate hardware-first thinking into AI infra.
   shutdown with worker draining, and curl-based smoke tests.
 
 - **[custom-stl-and-smart-pointer-library](https://github.com/ObaidMiah/Custom-STL-and-Smart-Pointer-Library)** —
-  Hand-written containers and smart pointers covered by GoogleTest.
-  RAII, move semantics, allocator-aware design.
+  Implemented core logic of containers and smart pointers covered by GoogleTest.
+  RAII, move semantics, manual memory management design.
 
 - **[object-detection](https://github.com/ObaidMiah/ObjectDetection)** —
   Hough Transform shape detection for real-time image analysis on
