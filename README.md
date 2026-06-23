@@ -38,6 +38,11 @@ kernel work to translate hardware-first thinking into AI infra.
   protocol, 2-node leader-follower replication, crash-recovery
   test harness, CI building Debug + Release under sanitizers.
 
+- **[multi-thread-http-server](https://github.com/ObaidMiah/multi-thread-http-server)** —
+  Multithreaded HTTP/1.1 server written from scratch in C++ on raw POSIX sockets. Fixed thread pool with a mutex/condition-
+  variable work queue, keep-alive connections, query/header/body parsing, static file serving, JSON REST API, graceful SIGINT
+  shutdown with worker draining, and curl-based smoke tests.
+
 - **[custom-stl-and-smart-pointer-library](https://github.com/ObaidMiah/Custom-STL-and-Smart-Pointer-Library)** —
   Hand-written containers and smart pointers covered by GoogleTest.
   RAII, move semantics, allocator-aware design.
