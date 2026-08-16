@@ -19,15 +19,13 @@ demod / mod pipeline control.
 projects to stretch into storage, networking, and latency.
 
 ## Stack
-- **Core:** C, C++, CUDA, Python
-
-- **GPU / Kernel:** CUDA kernel optimization, Triton, roofline analysis, warp / occupancy tuning
+- **Core:** C, C++, Python
 
 - **Embedded:** VxWorks, BSP development, DMA + ISR programming, FPGA driver interfacing, MMIO
 
-- **Build / Test:** CMake, GoogleTest, Docker, ASan / UBSan
+- **Build / Test:** CMake, GoogleTest, Docker
 
-- **Tools:** Git, gRPC, Protocol Buffers, vcpkg
+- **Tools:** Git, gRPC, Protocol Buffers
 
 ## Pinned work
 
@@ -61,9 +59,6 @@ projects to stretch into storage, networking, and latency.
 
 ## Currently building
 
-- Tiled shared-memory CUDA matmul, benchmarked against cuBLAS on A100
-- Custom CUDA / C++ PyTorch extension wired into autograd
-- Flash-Attention-style kernel with SRAM-resident tiles + roofline analysis
 
 ## Elsewhere
 
