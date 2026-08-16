@@ -6,7 +6,7 @@ C++ · CUDA · Hardware-coupled software · Los Angeles
 Former Principal Software Engineer at Northrop Grumman. UCLA EE.
 I write software that understands the hardware beneath it.
 FPGA device drivers, DMA pipelines, ISRs, VxWorks BSP, real-time
-datapath control. Now applying that hardware-first instinct to go deep in C++, distributed systems, and backend services after quitting my job. 
+datapath control. Now applying that hardware-first instinct to go deep in C++, distributed systems, and backend services. 
 
 ## What I do
 
