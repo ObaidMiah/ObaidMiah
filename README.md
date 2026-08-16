@@ -1,17 +1,17 @@
 # Obaid Miah
 
 **Principal Software Engineer**
-C++ · CUDA · Hardware-coupled software · Los Angeles
+C++ · Hardware-coupled software · Los Angeles
 
 Former Principal Software Engineer at Northrop Grumman. UCLA EE.
 I write software that understands the hardware beneath it.
 FPGA device drivers, DMA pipelines, ISRs, VxWorks BSP, real-time
-datapath control. Now applying that hardware-first instinct to go deep in C++, distributed systems, and backend services. 
+datapath control. Also applying that hardware-first instinct to go deep in C++, distributed systems, and backend services. 
 
 ## What I do
 
-**Former job — Embedded.** FPGA device drivers in C++,
-interrupt-driven datapath control, DMA ingress / egress pipelines,
+**Former job — Embedded.** 
+Interrupt-driven datapath control, DMA ingress / egress pipelines,
 VxWorks BSP, MMIO register-level FPGA programming, real-time
 demod / mod pipeline control.
 
